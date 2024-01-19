@@ -1,0 +1,1 @@
+Questo è il file di testo aggiunto nel branch "aggiungo_funzionalità" si suppone che sia solo in quel branch!
