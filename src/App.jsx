@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>GIT - TUTORIAL</h1>
-      <h2>Branch 2</h2>
+      <h1>Ciao branch: GIT ACTIONS TEST</h1>
     </>
   );
 }
